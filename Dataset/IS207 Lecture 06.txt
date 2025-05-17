@@ -1,0 +1,185 @@
+1
+
+University of Sadat City
+Faculty of Computers and Artificial Intelligence (FCAI)
+
+IS Strategy, Management & Acquisition (IS207)
+
+Lecture 6
+Presented By:
+Dr. Ahmed Tealeb
+Information Systems Department
+1st Semester 2022-2023
+
+Management Information Systems:
+Managing the Digital Firm
+Seventeenth Edition
+
+Chapter 3
+Information Systems, Organizations,
+and Strategy
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Learning Objectives
+3.1 Which features of organizations do managers need to know
+about to build and use information systems successfully?
+3.2 What is the impact of information systems on organizations?
+3.3 How do Porter’s competitive forces model, the value chain
+model, synergies, core competencies, and network economics
+help companies develop competitive strategies using
+information systems?
+3.4 What are the challenges posed by strategic information
+systems, and how should they be addressed?
+3.5 How will MIS help my career?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Porter’s Competitive Forces Model
+(1 of 3)
+• Why do some firms become leaders in their industry?
+• Michael Porter’s competitive forces model
+– Provides general view of firm, its competitors, and environment
+• Five competitive forces shape fate of firm:
+– Traditional competitors
+– New market entrants
+– Substitute products and services
+– Customers
+– Suppliers
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Porter’s Competitive Forces Model
+(2 of 3)
+• Traditional competitors
+– All firms share market space with competitors who are
+continuously devising new products, services,
+efficiencies, and switching costs
+• New market entrants
+– Some industries have high barriers to entry, for
+example, computer chip business
+– New companies have new equipment, younger
+workers, but little brand recognition
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Porter’s Competitive Forces Model
+(3 of 3)
+• Substitute products and services
+– Substitutes customers might use if your prices become too high,
+for example, iTunes substitutes for CDs
+• Customers
+– Can customers easily switch to competitor's products? Can they
+force businesses to compete on price alone in transparent
+marketplace?
+• Suppliers
+– Market power of suppliers when firm cannot raise prices as fast as
+suppliers
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.8 Porter’s Competitive
+Forces Model
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Information System Strategies for
+Dealing with Competitive Forces
+(1 of 3)
+• Four generic strategies for dealing with competitive forces,
+enabled by using IT:
+– Low-cost leadership
+– Product differentiation
+– Focus on market niche
+– Strengthen customer and supplier intimacy
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Information System Strategies for
+Dealing with Competitive Forces
+(2 of 3)
+• Low-cost leadership
+– Produce products and services at a lower price than competitors
+– Example: Walmart’s efficient customer response system
+• Product differentiation
+– Enable new products or services, greatly change customer
+convenience and experience
+– Example: Google, Nike
+– Mass customization; customer experience management
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Information System Strategies for
+Dealing with Competitive Forces
+(3 of 3)
+• Focus on market niche
+– Use information systems to enable a focused strategy on a single
+market niche; specialize
+– Example: Hilton Hotels’ OnQ system
+• Strengthen customer and supplier intimacy
+– Use information systems to develop strong ties and loyalty with
+customers and suppliers
+– Increase switching costs
+– Examples: Toyota, Amazon
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Interactive Session: Organizations:
+Shipping Wars
+• Class discussion
+– Why is shipping so important for e-commerce? Explain your
+answer.
+– Compare the shipping strategies of Amazon, FedEx, and
+UPS. How are they related to each company’s business
+model?
+– Will FedEx succeed in its push into ground shipping. Why or
+why not?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Interactive Session: Management:
+Customer Experience Management: A
+New Strategic Weapon
+• Class Discussion
+– What is customer experience management? How can it contribute
+to competitive advantage?
+– How does information technology support customer experience
+management? Give examples.
+– How did information technology and customer experience
+management change operations and decision making at the
+organizations described in this case?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+The Internet’s Impact on Competitive
+Advantage
+• Transformation or threat to some industries
+– Examples: travel agency, printed encyclopedia, media
+• Competitive forces still at work, but rivalry more intense
+• Universal standards allow new rivals, entrants to market
+• New opportunities for building brands and loyal customer
+bases
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Smart Products and the Internet of
+Things
+• Internet of Things (IoT)
+– Growing use of Internet-connected sensors in products
+• Smart products
+– Fitness equipment, health trackers
+• Expand product differentiation opportunities
+– Increasing rivalry between competitors
+• Raise switching costs
+• Inhibit new entrants
+• May decrease power of suppliers
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+The Business Value Chain Model
+• Firm as series of activities that add value to products or
+services
+• Highlights activities where competitive strategies can best
+be applied
+– Primary activities vs. support activities
+• At each stage, determine how information systems can
+improve operational efficiency and improve customer and
+supplier intimacy
+• Utilize benchmarking, industry best practices
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.9 The Value Chain Model
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+

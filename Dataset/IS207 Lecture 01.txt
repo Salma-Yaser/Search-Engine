@@ -1,0 +1,259 @@
+1
+
+University of Sadat City
+Faculty of Computers and Artificial Intelligence (FCAI)
+
+IS Strategy, Management & Acquisition (IS207)
+
+Lecture 1
+Presented By:
+Dr. Ahmed Tealeb
+Information Systems Department
+1st Semester 2022-2023
+
+Course Objectives
+The main objective of this course is to provide
+students with the issues and approaches in
+managing the information systems functions in
+organizations and how Information Systems
+function integrates/supports/enables various types
+of organizational capabilities.
+
+2
+
+Course Objectives
+The major topics of this course include:
+
+1. The IS function, IS strategic alignment, Strategic use of
+information.
+2. Impact of IS on organizational structure and processes, IS
+economics, IS planning.
+3. Role of IS in defining and shaping competition.
+4. Managing the information systems function, IS leadership.
+
+5. Structuring the IS organization, Hiring, retaining, and
+managing IS professionals.
+3
+
+Course Objectives
+6. Managing a mixed set of internal and external resources.
+7. Determining staffing skills allocation models.
+8. Financing and evaluating the performance of information
+technology investments and operations.
+9. Acquiring information
+capabilities.
+
+technology
+
+resources
+
+and
+
+10. Using IS/IT governance frameworks, IS risk management.
+
+4
+
+Textbooks
+
+5
+
+Assessment:
+Assessment
+
+weight
+
+Mid term exam
+
+20%
+
+Quizzes
+
+10%
+
+Practical exam
+(Reports)
+
+15%
+
+Attendance
+
+5%
+
+Final exam
+
+50%
+6
+
+Table of Contents
+
+Table of Contents
+The IS function, IS strategic alignment, Strategic use of Information
+Impact of IS on organizational structure and processes, IS economics, IS
+planning
+Role of IS in defining and shaping competition
+Managing the information systems function, IS leadership
+Structuring the IS organization, Hiring, retaining, and managing IS
+professionals
+Managing a mixed set of internal and external resources
+
+7
+
+7
+
+Table of Contents Cont.
+
+Table of Contents
+Managing a mixed set of internal and external resources
+Determining staffing skills allocation models
+Financing and evaluating the performance of information technology
+investments and operations
+Acquiring information technology resources and capabilities
+Using IS/IT governance frameworks, IS risk management
+
+8
+
+8
+
+What is Information Systems (IS)?
+• Information Systems – a set of interrelated
+components working together to collect, retrieve,
+process, store, and distribute information for the
+purpose of facilitating planning, control, coordination,
+analysis, and decision making in business organizations
+• Input-process-output perspective
+there are 2 intention of IS
+
+• People-organization-technology perspective
+
+Input-process-output perspective
+
+Choice Hotels
+Example
+
+Reservation
+
+System
+
+People-organization-technology perspective
+
+People-organization-technology perspective
+• People – the users of IS
+• Organization -- a collection of functional units
+working together to achieve a common goal.
+• Technology – the means by which data is
+transformed and organized for business use:
+• Hardware
+• Software
+• Database
+• Telecommunication
+
+Functional units of business organizations
+• Production
+• Sales/Marketing
+• Finance/Accounting
+• Human Resources
+
+ Maximize profit by producing goods
+and/or services
+
+Functional Areas of Business
+• The manufacturing and production function is
+responsible for producing the firm's goods and
+services.
+
+There are three stages of the manufacturing/ production
+process:
+• Inbound logistics
+• Production
+• Outbound logistics
+
+Functional Areas of Business Cont.
+• The sales and marketing function is responsible for
+finding customers for the firm's product or service and
+selling the firm's product or service to those
+customers.
+• The sales and marketing process consists of identifying
+and creating markets:
+• Developing markets
+• Maintaining markets
+
+Functional Areas of Business Cont.
+• The finance and accounting function is responsible for
+managing the firm's financial assets and maintaining
+the firm's financial records.
+
+• The finance process involves managing the firm's
+financial assets, whereas the accounting process is
+involved primarily in financial record keeping.
+
+Functional Areas of Business Cont.
+• The human resource function is responsible for
+attracting and maintaining an appropriate work force
+for the firm.
+
+• The human resources process entails:
+• Attracting the work force
+• Developing the firm's work force to meet the firm's
+personnel needs
+• Maintaining the work force
+
+Computer vs. Information Systems Literacy
+
+some important skills
+
+Information Systems in Business
+• Business functions
+• Business processes
+• A series of interrelated activities through which
+work is organized and focused to produce a
+product or service
+• Business levels
+• Strategic (long range planning)
+• Tactical (co-ordinate & supervise)
+• Operational (produce product & service)
+
+Business Process
+
+The order generation and fulfillment process (Fig. 2.2)
+
+Business Levels
+
+Role of IS in Business
+Competitive advantage
+• Low-cost (value chain)
+• Market niche
+• Product differentiation
+• Customer loyalty
+Globalization
+• People (language)
+• Organization (culture)
+• Technology (telecommunication)
+
+The value chain views the firm as a series of basic
+activities
+Primary activities
+
+• Inbound logistics,
+• Operations,
+• Outbound logistics,
+• Sales and Marketing
+• Service
+
+Support activities
+• Administration and management
+• Human resources
+
+• Technology and procurement
+
+IS Approach to Problem Solving
+Systems Analysis
+
+Systems Design
+
+People perspective to problem solving
+
+Organizational perspective to problem solving
+
+Technology perspective to problem solving
+
+

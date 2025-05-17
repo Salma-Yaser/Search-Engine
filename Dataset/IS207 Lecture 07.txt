@@ -1,0 +1,457 @@
+1
+
+University of Sadat City
+Faculty of Computers and Artificial Intelligence (FCAI)
+
+IS Strategy, Management & Acquisition (IS207)
+
+Lecture 7
+Presented By:
+Dr. Ahmed Tealeb
+Information Systems Department
+1st Semester 2022-2023
+
+Management Information Systems:
+Managing the Digital Firm
+Seventeenth Edition
+
+Chapter 5
+IT Infrastructure and Emerging
+Technologies
+
+Slide in this Presentation Contain Hyperlinks.
+JAWS users should be able to get a list of links
+by using INSERT+F7
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Learning Objectives
+5.1 What is IT infrastructure, and what are the stages and drivers
+of IT infrastructure evolution?
+5.2 What are the components of IT infrastructure?
+
+5.3 What are the current trends in computer hardware platforms?
+5.4 What are the current computer software platforms and trends?
+5.5 What are the challenges of managing IT infrastructure and
+management solutions?
+5.6 How will MIS help my career?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Video Cases
+• Case 1: Rockwell Automation Fuels the Oil and Gas
+Industry with the Internet of Things (IoT)
+• Case 2: ESPN.com: The Future of Sports Broadcasting in
+the Cloud
+• Case 3: Netflix: Building a Business in the Cloud
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+American Airlines Heads for the Cloud
+(1 of 2)
+• Problem
+– Outdated ITinfrastructure
+– Highly competitive industry
+
+• Solutions
+– Monitor service level and costs
+– Make ITinfrastructure investments
+
+– Create new services and business processes
+– Dynamic Rebooking system
+– Cloud-based customer-facing applications
+
+– IBM cloud computing services
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+American Airlines Heads for the Cloud
+(2 of 2)
+
+• Demonstrates the importance of information technology
+infrastructure in running a business today
+• Illustrates the use of cloud computing to improve
+effectiveness, control costs, and improve customer
+experience
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Defining IT Infrastructure
+• Set of physical devices and software required to operate
+an enterprise
+• Set of firm-wide services including:
+– Computing platforms providing computing services
+– Physical facilities management services
+– IT management, education, and other services
+
+• “Service platform” perspective: refers to analyzing the
+actual services enabled by new technology tools.
+– More accurate view of value of investments
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.1 Connection Between the Firm, IT
+Infrastructure, and Business Capabilities
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Evolution of IT Infrastructure
+• General-purpose mainframe and minicomputer era: 1959
+to present
+
+• Personal computer era: 1981 to present
+• Client/server era: 1983 to present
+
+• Enterprise computing era: 1992 to present
+• Cloud and mobile computing: 2000 to present
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.2 Stages in IT Infrastructure Evolution
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.3 A Multitiered (N-Tier)
+Client/Server Network
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Technology Drivers of Infrastructure
+Evolution (1 of 2)
+• Moore’s law and microprocessing power
+– Computing power doubles every 2 years
+– Nanotechnology
+• Law of Mass Digital Storage
+– The amount of data being stored each year doubles
+• Metcalfe’s Law and network economics
+– Value or power of a network grows exponentially as a
+function of the number of network members
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.4 Moore’s Law and
+Microprocessor Performance
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Technology Drivers of Infrastructure
+Evolution (2 of 2)
+• Declining communication costs and the Internet
+– Exponential growth in size of the Internet
+• Standards and network effects
+– Technology standards
+ Specifications that establish the compatibility of products
+and the ability to communicate in a network
+ Unleash powerful economies of scale and result in price
+declines
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.7 Exponential Declines in Internet
+Communications Costs ($/MBPS)
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Components of IT
+Infrastructure?
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Computer hardware platforms
+Operating system platforms
+Enterprise software applications
+Data management and storage
+Networking/telecommunications platforms
+Internet platforms
+Consulting system integration services
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.8 The IT Infrastructure
+Ecosystem
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Computer Hardware Platforms
+• Client machines
+– Desktop PCs, laptops
+– Mobile computing: smartphones, tablets
+– Desktop chips vs. mobile chips
+* read details
+• Servers
+• Mainframes
+– IBM mainframe
+– Digital workhorse for banking and telecommunications
+networks
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Operating System Platforms
+• Corporate servers
+– Windows Server
+– Unix
+– Linux
+• Client level
+– Microsoft Windows
+– Android, iOS, Windows 10 (mobile/multitouch)
+– Google’s Chrome OS (cloud computing)
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Enterprise Software Applications
+• In 2020, firms are expected to spend over $500 billion on
+software for enterprise applications
+
+• Largest providers: SAP and Oracle
+• Middleware providers: IBM, Oracle
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Data Management and Storage
+• Database software providers
+– IBM (DB2)
+– Oracle
+– Microsoft (SQL Server)
+– SAP Sybase (Adaptive Server Enterprise),
+– MySQL (Oracle)
+– Apache Hadoop
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Networking/Telecommunications
+Platforms
+• Network operating systems
+– Windows Server, Linux, Unix
+• Network hardware providers
+– Cisco, Juniper Networks
+• Telecommunication services
+– Telecommunications, cable, telephone company
+charges for voice lines and Internet access
+– AT&T, Verizon
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Internet Platforms
+• Hardware, software, management services to support company
+websites, intranets
+– Web-hosting services
+– Routers
+– Cabling or wireless equipment
+• Internet hardware server market
+– IBM, Dell, Oracle, HP
+• Web development tools/suites
+– Microsoft (Visual Studio and .NET), Oracle-Sun (Java),
+Adobe
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Consulting and System Integration
+Services
+• Even large firms do not have resources for full range of
+support for new, complex infrastructure
+• Leading consulting firms: Accenture, IBM Global Services,
+HP, Infosys, Wipro Technologies
+• Software integration: ensuring new infrastructure works
+with legacy systems
+• Legacy systems: older TPS created for mainframes that
+would be too costly to replace or redesign
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Trends in
+Computer Hardware Platforms? (1 of 5)
+• The mobile digital platform
+– Smartphones
+– Tablet computers
+– Digital e-book readers and apps (Kindle)
+– Wearable devices
+• Consumerization of IT and BYOD (bring your own device)
+– Forces businesses and IT departments to rethink how IT equipment
+and services are acquired and managed
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Trends in
+Computer Hardware Platforms? (2 of 5)
+• Quantum computing
+– Uses quantum physics to represent and operate on data
+– Dramatic increases in computing speed
+• Virtualization
+– Allows single physical resource to act as multiple resources (i.e.,
+run multiple instances of OS); also enables multiple physical
+resources (such as storage devices) to appear as a single logical
+resource (such as in software-defined storage (SDS))
+– Reduces hardware and power expenditures
+– Facilitates hardware centralization
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Trends in
+Computer Hardware Platforms? (3 of 5)
+• Cloud computing
+– On-demand computing services obtained over network
+ Infrastructure as a service (IaaS)
+ Software as a service (SaaS)
+ Platform as a service (PaaS)
+– Cloud can be public or private
+– Allows companies to minimize IT investments
+– Drawbacks: Concerns of security, reliability
+– Hybrid cloud computing model
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Trends in
+Computer Hardware Platforms? (4 of 5)
+• Edge computing
+– Servers at the edge of the network, near the source of
+the data
+– Reduces latency and network traffic
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Trends in
+Computer Hardware Platforms? (5 of 5)
+• Green computing (Green IT)
+– Practices and technologies for manufacturing, using,
+disposing of computing and networking hardware
+– Reducing power consumption a high priority
+– Green data centers
+• High-performance, power-saving processors
+– Multicore processors
+– Power-efficient microprocessors
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.9 Cloud Computing Platform
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.10 Amazon Web Services
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Interactive Session: Management: What
+Should Firms Do About BYOD?
+• Class discussion
+– What are the advantages and disadvantages of allowing
+employees to use their personal mobile devices for work?
+– What management, organization, and technology issues should
+be addressed when deciding whether to allow employees to use
+their personal mobile devices for work?
+– Compare and evaluate how the companies described in this case
+study dealt with the challenges of BYOD.
+– Allowing employees to use their own smartphones for work will
+save a company money. Do you agree? Why or why not?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Interactive Session: Organizations:
+Look to the Cloud
+• Class discussion
+– What business benefits do cloud computing services
+provide? What problems do they solve?
+– What are the disadvantages of cloud computing?
+– What kinds of businesses are most likely to benefit
+from using cloud computing? Why?
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Computer Software
+Platforms and Trends? (1 of 3)
+• Linux and open-source software
+– Produced by community of programmers
+– Examples: Apache web server, Mozilla Firefox browser,
+OpenOffice
+– Linux
+• Software for the web: Java, HTML, and HTML5
+– Java Virtual Machine
+– Web browsers
+– HTMLand HTML5
+– Ruby and Python
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Computer Software
+Platforms and Trends? (2 of 3)
+• Web services and service-oriented architecture
+– Web services
+– XML: Extensible Markup Language
+– SOA: service-oriented architecture
+ Set of self-contained services that communicate with one
+another to create a working software application
+ Software developers reuse these services in other
+combinations to assemble other applications as needed
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Are the Current Computer Software
+Platforms and Trends? (3 of 3)
+• Software outsourcing and cloud services
+– Software packages and enterprise software
+– Software outsourcing
+– Cloud-based software services and tools
+ Service Level Agreements (SLAs): formal agreement
+with service providers
+• Mashups and apps
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.11 How Dollar Rent A Car
+Uses Web Services
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.12 Changing Sources of
+Firm Software
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Dealing with Platform and Infrastructure
+Change
+• As firms shrink or grow, IT needs to be flexible and scalable
+• Scalability
+– Ability to expand to serve larger number of users
+• For mobile computing and cloud computing
+– New policies and procedures for managing these new
+platforms
+– Contractual agreements with firms running clouds and
+distributing software required
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Management and Governance
+• Governance
+• Who controls IT infrastructure?
+• How should IT department be organized?
+– Centralized
+ Central IT department makes decisions
+– Decentralized
+ Business unit IT departments make own decisions
+• How are costs allocated between divisions, departments?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Making Wise Infrastructure Investments
+• Under-investment and over-investment can hamper firm
+performance
+• Rent-versus-buy
+• Cloud computing
+– Security requirements
+– Impact on business processes and workflow
+• Outsourcing
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Total Cost of Ownership (TCO) Model
+• Analyzes direct and indirect costs
+• Hardware, software account for only about 20% of TCO
+• Other costs: Installation, training, support, maintenance,
+infrastructure, downtime, space, and energy
+
+• TCO can be reduced
+– Use of cloud services, greater centralization and
+standardization of hardware and software resources
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Competitive Forces Model for IT
+Infrastructure Investment
+• Market demand for firm’s services
+• Firm’s business strategy
+• Firm’s IT strategy, infrastructure, and cost
+• Information technology assessment
+• Competitor firm services
+• Competitor firm IT infrastructure investments
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 5.13 Competitive Forces Model
+for IT Infrastructure
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+

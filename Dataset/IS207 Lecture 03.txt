@@ -1,0 +1,185 @@
+1
+
+University of Sadat City
+Faculty of Computers and Artificial Intelligence (FCAI)
+
+IS Strategy, Management & Acquisition (IS207)
+
+Lecture 3
+Presented By:
+Dr. Ahmed Tealeb
+Information Systems Department
+1st Semester 2022-2023
+
+Management Information Systems:
+Managing the Digital Firm
+Seventeenth Edition
+
+Chapter 2
+Global E-Business and
+Collaboration
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Learning Objectives
+2.1 What are business processes? How are they related to
+information systems?
+2.2 How do systems serve the different management groups
+in a business, and how do systems that link the
+enterprise improve organizational performance?
+2.3 Why are systems for collaboration and social business
+so important, and what technologies do they use?
+2.4 What is the role of the information systems function in a
+business?
+2.5 How will MIS help my career?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Video Cases
+• Case 1: IS in Action: VisionX Lighting Grows with Business
+One
+• Case 2: Cemex: Becoming a Social Business
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Enterprise Social Networking Transforms Sharp
+Corporation into a More Innovative Connected
+Organization (1 of 2)
+• Problem
+– Hierarchical top-down processes
+– New competitors
+– Lack of collaboration and idea sharing
+• Solutions
+– Develop knowledge-sharing strategy and goals
+– Redesign knowledge-sharing and collaboration processes
+– Change organizational culture
+– Implement Microsoft Yammer collaboration software
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Enterprise Social Networking Transforms Sharp
+Corporation into a More Innovative Connected
+Organization (2 of 2)
+• Use of new information systems to improve performance
+and remain competitive
+• Demonstrates importance of teamwork and collaboration
+for innovation and profit growth
+• Illustrates importance of organizational culture and
+business processes for knowledge dissemination
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Business Processes (1 of 2)
+• Business processes
+– Flows of material, information, knowledge
+– Logically related set of tasks that define how specific
+business tasks are performed
+– May be tied to functional area or be cross-functional
+• Businesses: Can be seen as collection of business
+processes
+• Business processes may be assets or liabilities
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Business Processes (2 of 2)
+• Examples of functional business processes
+– Manufacturing and production
+ Assembling the product
+– Sales and marketing
+ Identifying customers
+– Finance and accounting
+ Creating financial statements
+– Human resources
+ Hiring employees
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 2.1 The Order Fulfillment Process
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+How Information Technology Improves
+Business Processes
+• Increasing efficiency of existing processes
+– Automating steps that were manual
+• Enabling entirely new processes
+– Changing flow of information
+– Replacing sequential steps with parallel steps
+– Eliminating delays in decision making
+– Supporting new business models
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Systems for Different Management
+Groups (1 of 2)
+• Transaction processing systems
+– Serve operational managers and staff
+– Perform and record daily routine transactions necessary to
+conduct business
+ Examples: sales order entry, payroll, shipping
+– Allow managers to monitor status of operations and
+relations with external environment
+– Serve predefined, structured goals and decision making
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 2.2 A Payroll TPS
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Systems for Different Management
+Groups (2 of 2)
+• Systems for business intelligence
+– Data and software tools for organizing and analyzing
+data
+– Used to help managers and users make improved
+decisions
+• Management information systems
+• Decision support systems
+• Executive support systems
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Management Information Systems
+• Serve middle management
+
+• Provide reports on firm’s current performance, based on
+data from TPS
+• Provide answers to routine questions with predefined
+procedure for answering them
+• Typically have little analytic capability
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 2.3 How Management Information
+Systems Obtain Their Data from the
+Organization’s TPS
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 2.4 Sample MIS Report
+Consolidated Consumer Products Corporation Sales by Product and Sales Region: 2020
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Decision Support Systems
+• Serve middle management
+• Support nonroutine decision making
+– Example: What is the impact on production schedule if
+December sales doubled?
+• May use external information as well as TPS / MIS data
+• Model driven DSS
+– Voyage-estimating systems
+• Data driven DSS
+– Intrawest’s marketing analysis systems
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 2.5 Voyage-Estimating DecisionSupport System
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Executive Support Systems
+• Support senior management
+• Address nonroutine decisions
+– Requiring judgment, evaluation, and insight
+• Incorporate data about external events (e.g., new tax laws
+or competitors) as well as summarized information from
+internal MIS and DSS
+• Example: Digital dashboard with real-time view of firm’s
+financial performance
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+

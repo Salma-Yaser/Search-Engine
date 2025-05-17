@@ -1,0 +1,234 @@
+1
+
+University of Sadat City
+Faculty of Computers and Artificial Intelligence (FCAI)
+
+IS Strategy, Management & Acquisition (IS207)
+
+Lecture 5
+Presented By:
+Dr. Ahmed Tealeb
+Information Systems Department
+1st Semester 2022-2023
+
+Management Information Systems:
+Managing the Digital Firm
+Seventeenth Edition
+
+Chapter 3
+Information Systems, Organizations,
+and Strategy
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Learning Objectives
+3.1 Which features of organizations do managers need to know
+about to build and use information systems successfully?
+3.2 What is the impact of information systems on organizations?
+3.3 How do Porter’s competitive forces model, the value chain
+model, synergies, core competencies, and network economics
+help companies develop competitive strategies using
+information systems?
+3.4 What are the challenges posed by strategic information
+systems, and how should they be addressed?
+3.5 How will MIS help my career?
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Video Cases
+Case 1: GE Becomes a Digital Firm: The Emerging Industrial
+Internet
+Case 2: National Basketball Association: Competing on
+Global Delivery with Akamai OS Streaming
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Walmart’s New Supercenter Strategy
+(1 of 2)
+• Problem
+
+– Opportunities from new technology
+– Large geographic footprint
+– Powerful competition
+– High costs
+• Solutions
+– Determine business strategy
+– Design new products and services
+
+– Integrate multiple lines of business
+– Optimize in-store experience
+– Edge computing
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Walmart’s new Supercenter Strategy
+(2 of 2)
+• Supercenter systems expedite ordering and shipping;
+provides new in-store services, warehousing for third-party
+sellers, targeted brand online ads
+
+• Increases revenue and service
+• Illustrates how information systems help business compete
+
+• Demonstrates IT’s role in helping organizations strengthen
+their competitive strategies by using new technologies
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+The Relationship Between Organizations
+and Information Technology
+• Information technology and organizations influence each other
+– Relationship influenced by organization’s
+ Structure
+ Business processes
+ Politics
+ Culture
+ Environment
+ Management decisions
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.1 The Two-Way Relationship Between
+Organizations and Information Technology
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+What Is an Organization?
+• Technical definition
+– Formal social structure that processes resources from
+environment to produce outputs
+– A formal legal entity with internal rules and procedures,
+as well as a social structure
+• Behavioral definition
+– A collection of rights, privileges, obligations, and
+responsibilities that is delicately balanced over a period
+of time through conflict and conflict resolution
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.2 The Technical Microeconomic
+Definition of the Organization
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.3 The Behavioral View of
+Organizations
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Features of Organizations
+• Use of hierarchical structure
+• Accountability, authority in system of impartial decision
+making
+• Adherence to principle of efficiency
+
+• Routines and business processes
+• Organizational politics, culture, environments, and
+structures
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Routines and Business Processes
+• Routines (standard operating procedures)
+– Precise rules, procedures, and practices developed to
+cope with virtually all expected situations
+• Business processes: Collections of routines
+• Business firm: Collection of business processes
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.4 Routines, Business
+Processes, and Firms
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Organizational Politics
+• Divergent viewpoints lead to political struggle, competition,
+and conflict
+• Political resistance greatly hampers organizational change
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Organizational Culture
+• Encompasses set of assumptions that define goal and
+product
+– What products the organization should produce
+– How and where it should be produced
+– For whom the products should be produced
+• May be powerful unifying force as well as restraint on
+change
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Organizational Environments
+• Organizations and environments have a reciprocal
+relationship
+• Organizations are open to, and dependent on, the social
+and physical environment
+• Organizations can influence their environments
+• Environments generally change faster than organizations
+• Information systems can be instrument of environmental
+scanning, act as a lens
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Figure 3.5 Environments and Organizations
+Have a Reciprocal Relationship
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Disruptive Technologies
+• Substitute products that perform as well as or better than
+existing product
+• Technology that brings sweeping change to businesses,
+industries, markets
+• Examples: personal computers, smartphones, Big Data,
+artificial intelligence, the Internet
+• First movers and fast followers
+– First movers—inventors of disruptive technologies
+– Fast followers—firms with the size and resources to
+capitalize on that technology
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Organizational Structure
+• Five basic kinds of organizational structure (Mintzberg)
+– Entrepreneurial
+– Machine bureaucracy
+– Divisionalized bureaucracy
+– Professional bureaucracy
+– Adhocracy
+• Information system often reflects organizational structure
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Other Organizational Features
+• Goals
+– Coercive, utilitarian, normative, and so on
+• Constituencies
+
+• Leadership styles
+• Types of tasks
+
+• Different environments
+
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Economic Impacts
+• IT changes relative costs of capital and the costs of information
+• Information systems technology is a factor of production, like
+capital and labor
+• IT affects the cost and quality of information and changes
+economics of information
+– Information technology helps firms contract in size because
+it can reduce transaction costs (the cost of participating in
+markets)
+ Outsourcing
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+Implications for the Design and
+Understanding of Information Systems
+• Organizational factors in planning a new system:
+– Environment
+– Structure
+ Hierarchy, specialization, routines, business processes
+– Culture and politics
+– Type of organization and style of leadership
+– Main interest groups affected by system; attitudes of end users
+– Tasks, decisions, and business processes the system will assist
+Copyright © 2022, 2020, 2018 Pearson Education, Inc. All Rights Reserved
+
+

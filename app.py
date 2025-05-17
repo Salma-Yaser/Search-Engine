@@ -1,17 +1,29 @@
 #python
 import os
-import nltk
-# Uncomment the next line if punkt is not downloaded yet
-nltk.download('punkt_tab')
-
 import streamlit as st
-from preprocess import preprocess
-from indexing import build_vocabulary, build_term_doc_matrix, build_inverted_index
-from retrival import (
-    search_term_doc_incidence,
-    search_inverted_index,
-    search_tfidf,
-)
+import nltk
+
+# Try to download NLTK resources first - this is needed for deployment
+try:
+    nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
+    nltk.download('omw-1.4')
+except Exception as e:
+    st.warning(f"Error downloading NLTK resources: {str(e)}")
+
+# Now import modules that depend on NLTK resources
+try:
+    from preprocess import preprocess
+    from indexing import build_vocabulary, build_term_doc_matrix, build_inverted_index
+    from retrival import (
+        search_term_doc_incidence,
+        search_inverted_index,
+        search_tfidf,
+    )
+except Exception as e:
+    st.error(f"Error importing modules: {str(e)}")
+    st.stop()
 
 # -- Load and cache data and indexes -------------------------------------------------
 @st.cache_data(show_spinner=False)
@@ -140,6 +152,10 @@ def main():
                 st.write(get_snippet(raw_docs[i], query_terms))
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"Error: {str(e)}")
+        st.write("Please check if NLTK data is properly downloaded and available.")
 
 # -- End of Streamlit app -----------------------------------------------------------

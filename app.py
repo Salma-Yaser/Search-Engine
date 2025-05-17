@@ -72,20 +72,27 @@ st.markdown(
 )
 
 # background image 
-# st.markdown(
-#     """
-#     <style>
-#     .stApp {
-#         background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
-#         background-size: cover;
-#         background-position: center;
-#         background-repeat: no-repeat;
-#         background-attachment: fixed;
-#     }
-#     </style>
-#     """,
-#     unsafe_allow_html=True
-# )
+# Create a container div for the search background
+st.markdown(
+    """
+    <style>
+    .search-container {
+        background-image: url("https://ik.imagekit.io/4f4cbqxyi/photo-1651352076676-58a34812f3d2.avif");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    </style>
+    
+    <div class="search-container">
+        <div style="height: 60px;"></div>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # User inputs
 def main():

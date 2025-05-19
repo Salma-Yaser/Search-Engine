@@ -5,17 +5,35 @@ from nltk.stem import WordNetLemmatizer, PorterStemmer
 from nltk.tokenize import word_tokenize
 
 
-# Download required NLTK resources (run once)
-nltk.download('stopwords')
-nltk.download('punkt_tab')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('punkt_tab')
-
 # Initialize tools
-STOPWORDS = set(stopwords.words('english'))
-lemmatizer = WordNetLemmatizer()
-stemmer = PorterStemmer()
+try:
+    # Initialize stopwords - with fallback for when deployment doesn't have NLTK data
+    try:
+        STOPWORDS = set(stopwords.words('english'))
+    except LookupError:
+        # Fallback to a basic set of English stopwords if NLTK data is not available
+        STOPWORDS = {'a', 'an', 'the', 'and', 'or', 'but', 'if', 'because', 'as', 'what',
+                    'which', 'this', 'that', 'these', 'those', 'then', 'just', 'so', 'than',
+                    'such', 'both', 'through', 'about', 'for', 'is', 'of', 'while', 'during',
+                    'to', 'from', 'in', 'on', 'at', 'by', 'with', 'about', 'against', 'between',
+                    'into', 'through', 'during', 'before', 'after', 'above', 'below', 'up', 'down',
+                    'he', 'she', 'it', 'they', 'we', 'you', 'i', 'me', 'my', 'mine', 'your', 'yours',
+                    'his', 'her', 'hers', 'its', 'their', 'theirs', 'our', 'ours'}
+        
+    # Initialize lemmatizer and stemmer with fallbacks
+    try:
+        lemmatizer = WordNetLemmatizer()
+    except LookupError:
+        # Simple lemmatizer function as fallback
+        lemmatizer = type('', (), {'lemmatize': lambda self, word, pos='n': word})()
+    
+    stemmer = PorterStemmer()  # PorterStemmer doesn't require additional NLTK data
+except Exception as e:
+    # Final fallback if anything goes wrong
+    print(f"Error initializing NLP tools: {e}")
+    STOPWORDS = set()
+    lemmatizer = type('', (), {'lemmatize': lambda self, word, pos='n': word})()
+    stemmer = PorterStemmer()
 
 
 def preprocess(text: str) -> list[str]:
@@ -29,12 +47,15 @@ def preprocess(text: str) -> list[str]:
       6. Stemming
 
     Returns a list of processed tokens.
-    """
-    # 1. Case folding
+    """    # 1. Case folding
     text = text.lower()
 
     # 2. Tokenization (splits into words)
-    tokens = word_tokenize(text)
+    try:
+        tokens = word_tokenize(text)
+    except LookupError:
+        # Simple fallback tokenization if NLTK data isn't available
+        tokens = text.split()
 
     processed_tokens = []
     for token in tokens:

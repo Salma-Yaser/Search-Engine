@@ -1,5 +1,0 @@
-
- nltk
- streamlit
- numpy
- scikit-learn

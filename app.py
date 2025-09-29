@@ -15,7 +15,7 @@ from retrival import (
 
 # --- Configuration ---
 logging.basicConfig(level=logging.INFO)
-GIF_URL = "https://ik.imagekit.io/tosp1g2et/img5.jpeg?updatedAt=1747670323759"
+GIF_URL = "https://ik.imagekit.io/tosp1g2et/img3.jpeg?updatedAt=1747670323821"
 
 # --- Helper Functions ---
 def get_snippet(text, terms, radius=50):

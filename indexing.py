@@ -48,8 +48,11 @@ def build_inverted_index(preprocessed_docs):
     Returns:
         dict[str, list[int]]: Inverted index.
     """
-    index = defaultdict(list)
+    #Creates a dictionary where each key is a term and the value is a list of document indices (i.e. term → [doc1, doc3, ...])
+    index = defaultdict(list) 
     for doc_idx, tokens in enumerate(preprocessed_docs):
         for term in set(tokens):
             index[term].append(doc_idx)
-    return dict(index)
+    return dict(index) #Converts the defaultdict back to a regular dictionary before returning.
+
+

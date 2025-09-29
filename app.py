@@ -1,8 +1,8 @@
 #python
 import os
-import nltk
+#import nltk
 # Uncomment the next line if punkt is not downloaded yet
-nltk.download('punkt_tab')
+#nltk.download('punkt_tab')
 
 import streamlit as st
 from preprocess import preprocess
@@ -76,16 +76,41 @@ st.markdown(
 #     """
 #     <style>
 #     .stApp {
-#         background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+#         background-image: url("https://ik.imagekit.io/tosp1g2et/the%20%20particle%20of%20voice.gif?updatedAt=1747523120420");
 #         background-size: cover;
 #         background-position: center;
 #         background-repeat: no-repeat;
 #         background-attachment: fixed;
+#         padding: 50px;
+#         margin-bottom: 20px;
 #     }
 #     </style>
 #     """,
 #     unsafe_allow_html=True
 # )
+
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-image: url("https://ik.imagekit.io/tosp1g2et/the%20%20particle%20of%20voice.gif?updatedAt=1747523120420");
+        background-size: 1600px auto; /* Adjust size */
+        background-position:  right; /* You can change this */
+        background-repeat: no-repeat; /* Keeps one image */
+        background-attachment: fixed;
+        padding: 50px;
+        margin-bottom: 20px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
+
+
+
+
 
 # User inputs
 def main():
